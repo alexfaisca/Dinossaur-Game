@@ -1,10 +1,5 @@
-# Dinossaur-Game
-Dino game in P4 (educational processor prototype by IST) assembly.
-You can run this code at http://p4.rnl.tecnico.ulisboa.pt (P4 simulator and emulator).
-Project proposed by the "Introdução à Arquitetura de Computadores"'s professors at IST.
+# Source code of Introduction to COmputer Architecture's project
+## LEIC-A, DEI/IST/ULISBOA 2020-21
+Dinossaur game in P4 (educational processor prototype by IST) assembly, the project's specifications are available on the subjects [website](https://fenix.tecnico.ulisboa.pt/disciplinas/IAC45179577/2020-2021/1-semestre/projeto).
 
-Game is customizable in the following aspects:
--> Floor height
--> Cactus's height & dinossaur jump (both equal)
--> Background / Dinossaur / Cactus / Floor color
--> Implements: EASYMODE and HARDMODE (doubles game speed and cactus's height)
+You can run this code at http://p4.rnl.tecnico.ulisboa.pt (P4 simulator and emulator).
